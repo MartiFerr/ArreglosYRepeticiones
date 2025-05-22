@@ -44,8 +44,10 @@ let numeros = [0,1,2,3,4]
   }
   console.log("Resultado " + suma)
  // Ejercicio 5: Cargar elementos con prompt()
- 
-
+ arreglo.push(prompt('ingresa un nombre'))
+ for (let indice = 0; index < arreglo.legh ;indice ++) {
+  console.log (arreglo[índice])
+  }
 
 
     
